@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center>
+<p align="center">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)
 
