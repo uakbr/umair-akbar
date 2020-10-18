@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-I am a Python developer with interests in malware and penetration testing, and I'm always up for learning a new language! You can see a list of my projects here on github at https://0xKyoto.github.io/ or you can contact me via Discord for a more in-depth tour of my projects!
 
-For any client work contact me via my Discord well, this is where you will recieve the fastest response. I do not sell malware and never will.
 
 <hr>
 
@@ -45,12 +43,11 @@ For any client work contact me via my Discord well, this is where you will recie
 <details>
       <summary>Contact.</summary>
   <p align=center>
-    <a href="https://github.com/0xKyoto">Github lol.</a>
+    <a href="https://github.com/umair-akbar">Github</a>
     <br>
-    <a href="mailto:oxy@pleasedox.me">oxy@pleasedox.me</a>
+    <a href="mailto:umairakbar@pm.me">umairakbar@pm.me</a>
     <br>
-    <a href="https://twitter.com/SimpSwapper">@SimpSwapper</a>
+    <a href="https://www.linkedin.com/in/umair-akbar/">Linkedin</a>
     <br>
-    <a href="https://discord.gg/HUV7HWh">Oxycontin#4362</a>
   </p>
 </details>
