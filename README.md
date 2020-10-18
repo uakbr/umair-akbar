@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
 
-<p align="center"> [Google Cloud Professional Network Engineer](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d) </p>
+<p align="center"> <img src="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d" alt="umair-akbar" /> </p>
 
 - 🔭 I’m currently working on **bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).**
 
