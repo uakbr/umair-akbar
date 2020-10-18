@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting**
 
-- 📫 How to reach me **usa@hakk.me**
+- 📫 How to reach me **usa@umairakbar.me**
 
 - 📄 Know about my experiences [https://linkedin.com/in/umair-akbar](https://linkedin.com/in/umair-akbar)
 
