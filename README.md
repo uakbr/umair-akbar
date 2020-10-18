@@ -9,19 +9,7 @@
     </a>
   </p>
 
-<details>
-      <summary>Contact.</summary>
-  <p align=center>
-    <a href="https://github.com/umair-akbar">Github</a>
-    <br>
-    <a href="mailto:umairakbar@pm.me">umairakbar@pm.me</a>
-    <br>
-    <a href="https://www.linkedin.com/in/umair-akbar/">Linkedin</a>
-    <br>
-  </p>
-</details>
-
-<h1 align="center">Hi 👋, I'm Umair</h1>
+<h3 align="center">Hi 👋, I'm Umair</h3>
 <h3 align="center">Information Security Engineer with GCP, AWS, and CISA accreditations</h3>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
