@@ -1,7 +1,3 @@
-<p align=center>
-  <img src="https://avatars2.githubusercontent.com/u/62894286?s=200"/>
-</p>
-
   <p align=center>
     <a href="https://github.com/umair-akbar">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=umair-akbar&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Umair's Statistics" />
