@@ -11,9 +11,9 @@
 <p align=center>
   <img src="https://avatars2.githubusercontent.com/u/62894286?s=200"/>
 </p>
-<h1 align=center>Hi! I'm Umair 👋</h1>
-<h2 align=center>I'm an Information Security Engineer with GCP, AWS, and CISA accreditations</h2>
-<h2 align=center> ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)</h2> 
+<h3 align=center>Hi! I'm Umair 👋</h3>
+<h3 align=center>I'm an Information Security Engineer with GCP, AWS, and CISA accreditations</h3>
+<h3 align=center> ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)</h3> 
 
 <details>
       <summary>Statistics.</summary>
