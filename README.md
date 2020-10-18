@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.**
 
-- 👨‍💻 All of my projects are available at [github.com/umair-akbar/](github.com/umair-akbar/)
+- 👨‍💻 All of my projects are available at [Github](github.com/umair-akbar/)
 
 - 💬 Ask me about **Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting**
 
 - 📫 How to reach me **usa@hakk.me**
 
-- 📄 Know about my experiences [linkedin.com/in/umair-akbar/](linkedin.com/in/umair-akbar/)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/umair-akbar)
 
 - ⚡ Fun fact **My initials are USA. Born are raised here. Never left.**
 
