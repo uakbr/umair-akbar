@@ -1,38 +1,19 @@
 <!--
 **umair-akbar/umair-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).
+- 🌱 I’m currently learning Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.
+- 💬 Ask me about: Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting
+- ⚡ Fun fact: My initials are USA; was born in the USA, have never left. :)
 -->
-
-<th align="center">
-
-![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)
-
-</th>
 
 <p align=center>
   <img src="https://avatars2.githubusercontent.com/u/62894286?s=200"/>
 </p>
 <h1 align=center>Hi! I'm Umair 👋</h1>
-
-- 🔭 I’m currently working on **FusionAPI's Backend**
-- 🌱 I’m currently learning **Golang**!
-- 📫 How to reach me: ****
-
-<hr>
-
-
-
-<hr>
+<h2 align=center>I'm an Information Security Engineer with GCP, AWS, and CISA accreditations</h2>
+<h2 align=center> ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)</h2> 
 
 <details>
       <summary>Statistics.</summary>
