@@ -1,16 +1,14 @@
-
-- 🔭 I’m currently working on bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).
-- 🌱 I’m currently learning Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.
-- 💬 Ask me about: Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting
-- ⚡ Fun fact: My initials are USA; was born in the USA, have never left. :)
-
-
 <p align=center>
   <img src="https://avatars2.githubusercontent.com/u/62894286?s=200"/>
 </p>
 <h3 align=center>Hi! I'm Umair 👋</h3>
-<h3 align=center>I'm an Information Security Engineer with GCP, AWS, and CISA accreditations</h3>
-<h3 align=center> ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)</h3> 
+
+<h3 align=center> ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)</h3>
+- <i class="ri-shield-check-line"></i> I'm an Information Security Engineer with GCP, AWS, and CISA accreditations
+- 🔭 I’m currently working on bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).
+- 🌱 I’m currently learning Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.
+- 💬 Ask me about: Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting
+- ⚡ Fun fact: My initials are USA; was born in the USA, have never left. :)
 
 <details>
       <summary>Statistics.</summary>
