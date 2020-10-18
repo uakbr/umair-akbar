@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
-  
-  ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)
-  
-<center>
+<th align="center">
 
+![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)
+
+</th>
 
 <p align=center>
   <img src="https://avatars2.githubusercontent.com/u/62894286?s=200"/>
