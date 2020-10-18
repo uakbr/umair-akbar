@@ -6,13 +6,9 @@
 <h3 align=center> ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)</h3>
 
 - 💡  I'm an Information Security Engineer with GCP, AWS, and CISA accreditations
-
 - 🔭 I’m currently working on bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).
-
 - 🌱 I’m currently learning Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.
-
 - 💬 Ask me about: Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting
-
 - ⚡ Fun fact: My initials are USA; was born in the USA, have never left. :)
 
 <details>
