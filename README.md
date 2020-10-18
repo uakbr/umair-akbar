@@ -1,12 +1,9 @@
-<!--
-**umair-akbar/umair-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).
 - 🌱 I’m currently learning Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.
 - 💬 Ask me about: Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting
 - ⚡ Fun fact: My initials are USA; was born in the USA, have never left. :)
--->
+
 
 <p align=center>
   <img src="https://avatars2.githubusercontent.com/u/62894286?s=200"/>
