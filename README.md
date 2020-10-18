@@ -8,7 +8,7 @@
 <h3 align="center">Hi 👋, I'm Umair</h3>
 <h3 align="center">Information Security Engineer with GCP, AWS, and CISA accreditations</h3>
 
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
 
 - 🔭 I’m currently working on **bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).**
 
