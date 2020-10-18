@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align=center>
 ![](https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=umair-akbar&show_icons=true&theme=tokyonight)
+</p>
 
 <p align=center>
   <img src="https://avatars2.githubusercontent.com/u/62894286?s=200"/>
