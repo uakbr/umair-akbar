@@ -10,8 +10,8 @@
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
 
-<p align="center"> [Google Cloud](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/)
-[AWS Certified Solutions Architect](https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f) </p>
+<center> [Google Cloud](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/)
+[AWS Certified Solutions Architect](https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f)</center>
 
 - 🔭 I’m currently working on **bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).**
 
