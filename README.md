@@ -3,7 +3,7 @@
 <h3 align="center">Certified Information Systems Auditor</h3>
 <h3 align="center">Google Certified Professional Network Engineer</h3>
 <h3 align="center">Amazon Web Services Solutions Architect</h3>
-<img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" height="232"/> </a>
+<h3 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" height="232"/></a></h3>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
 
