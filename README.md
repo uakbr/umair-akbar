@@ -1,12 +1,8 @@
-  <p align=center>
-    <a href="https://github.com/umair-akbar">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=umair-akbar&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Umair's Statistics" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair-akbar&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Umair's Statistics" />
-    </a>
-  </p>
-
 <h3 align="center">Hi 👋, I'm Umair</h3>
-<h3 align="center">Information Security Engineer with GCP, AWS, and CISA accreditations</h3>
+<h3 align="center">Information Security Engineer 
+  Certified Information Systems Auditor
+  Google Certified Professional Network Engineer
+  Amazon Web Services Solutions Architect</h3>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
 
