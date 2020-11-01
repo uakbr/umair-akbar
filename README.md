@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Umair</h3>
-<h3 align="center">Information Security Engineer</h3>
+<h2 align="center">Hi 👋, I'm Umair</h2>
+<h2 align="center">Information Security Engineer</h2>
 <h3 align="center">Certified Information Systems Auditor</h3>
 <h3 align="center">Google Certified Professional Network Engineer</h3>
 <h3 align="center">Amazon Web Services Solutions Architect</h3>
