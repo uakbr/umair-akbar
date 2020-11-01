@@ -1,8 +1,8 @@
 <h3 align="center">Hi 👋, I'm Umair</h3>
-<h3 align="center">Information Security Engineer 
-  Certified Information Systems Auditor
-  Google Certified Professional Network Engineer
-  Amazon Web Services Solutions Architect</h3>
+<h3 align="center">Information Security Engineer</h3>
+<h3 align="center">Certified Information Systems Auditor</h3>
+<h3 align="center">Google Certified Professional Network Engineer</h3>
+<h3 align="center">Amazon Web Services Solutions Architect</h3>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
 
