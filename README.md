@@ -12,6 +12,8 @@
 
 [AWS Certified Solutions Architect](https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f) - Accreditation verification
 
+[I have 62 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life
+
 - 🔭 I’m currently working on **bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).**
 
 - 🌱 I’m currently learning **Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.**
