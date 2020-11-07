@@ -8,6 +8,8 @@
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
 
+[Certified Information Systems Auditor](https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/) - Accreditation verification
+
 [Google Cloud](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/) - Accreditation verification
 
 [AWS Certified Solutions Architect](https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f) - Accreditation verification
