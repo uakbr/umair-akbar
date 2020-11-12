@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/umair-akbar](https://linkedin.com/in/umair-akbar)
 
-- ⚡ Fun fact **My initials are USA. Born are raised here. Never left.**
+- ⚡ Fun fact **My initials are USA. Born and raised here. Never left.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
