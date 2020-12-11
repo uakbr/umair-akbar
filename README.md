@@ -3,7 +3,7 @@
 <h3 align="center"><b>✅ Certified Information Systems Auditor (CISA) </b></h3>
 <h3 align="center"><b>✅ Google Professional Network Engineer </b></h3>
 <h3 align="center">✅ Amazon Web Services Solutions Architect </b></h3>
-<h3 align="center"> I commit, alot </h3>
+<h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 <h4 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" /></a></h4>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
@@ -14,17 +14,17 @@
 
 [AWS Certified Solutions Architect](https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f) - Accreditation verification
 
-[I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life
+[I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
 - 🔭 I’m currently working on **bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).**
 
-- 🌱 I’m currently learning **Tensorflow as part of my Machine Learning endeavors. In addition to keeping up with all things Cloud.**
+- 🌱 I'm very passionate about **fundamental human rights. Especially the right to privacy. Which is why I founded [GDPR.gg](https://gdpr.gg/).**
 
 - 👨‍💻 All of my projects are available on my [Github](https://github.com/umair-akbar/).
 
-- 💬 Ask me about **Anything related to Google Cloud Platform or Amazon Web Services Solutions Architecting**
+- 💬 Ask me about **Anything related to Google Cloud Platform, GDPR, CCPA, privacy laws, Medical research, AWS, IT auditing, Governance, and database concurrency!** (weird flex, but ok).
 
-- 📫 How to reach me **usa@hakk.me**
+- 📫 How to reach me **usa@hakk.me** or **umair@hytech.dev**. I code highly specialized fraud detection software alongside completing a Master's! I'll be joining an accounting firm really soon.
 
 - ⚡ Fun fact **My initials are USA. Born and raised here. Never left.**
 
