@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
 <h1 align="center">Information Security Engineer</h1>
-<h3 align="center">**Certified Information Systems Auditor (CISA)**</h3>
-<h3 align="center">Google Professional Network Engineer</h3>
+<h3 align="center">Certified Information Systems Auditor (CISA)</h3>
+<h3 align="center"><b>Google Professional Network Engineer</b></h3>
 <h3 align="center">Amazon Web Services Solutions Architect</h3>
 <h3 align="center"> I commit, alot </h3>
 <h4 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" /></a></h4>
