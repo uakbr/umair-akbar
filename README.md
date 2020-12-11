@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
 <h2 align="center">Information Security Engineer</h2>
-<h3 align="center">[GDPR.gg](https://GDPR.gg/)</h3>
 <h4 align="center">Certified Information Systems Auditor (CISA)</h4>
 <h4 align="center">Google Professional Network Engineer</h4>
 <h4 align="center">Amazon Web Services Solutions Architect</h4>
