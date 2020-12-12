@@ -4,7 +4,7 @@
 <h3 align="center"><b>✅ Google Professional Network Engineer </b></h3>
 <h3 align="center">✅ Amazon Web Services Solutions Architect </b></h3>
 <h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
-<h4 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" /></a></h4>
+
 
 <p align="center"> <a href="" target=""> <img src="https://i.imgur.com/ujAPyfT.png" alt="Credentials" /> </a>
 
