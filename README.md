@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="" target=""> <img src="https://i.imgur.com/XqVh0G6.png" alt="Credentials" /> </a>
 
-<p align="center"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/" target="_blank"> <img src="https://i.imgur.com/9Uvt8Sj.png" alt="CISA" /> </a>
+<p align="center"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url" target="_blank"> <img src="https://i.imgur.com/BagDNhk.png" alt="CISA" /> </a>
 
 <p align="center">
   <b>Certified Information Systems Auditor (CISA)</b><br>
@@ -15,7 +15,7 @@
 <br><br>
 </p>
 
-<p align="center"> <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/" target="_blank"> <img src="https://i.imgur.com/tVasXar.png" alt="AWS" /> </a>
+<p align="center"> <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url" target="_blank"> <img src="https://i.imgur.com/kdfNfKj.png" alt="AWS" /> </a>
 
 <p align="center">
   <b>Amazon Web Services -  Solutions Architect</b><br>
@@ -23,7 +23,7 @@
 <br><br>
 </p>
 
-<p align="center"> <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/" target="_blank"> <img src="https://i.imgur.com/QmsVf78.png" alt="Google" /> </a>
+<p align="center"> <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/" target="_blank"> <img src="https://i.imgur.com/8afqjb6.png" alt="Google" /> </a>
 
 <p align="center">
   <b>Google Professional Cloud Network Engineer</b><br>
