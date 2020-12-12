@@ -7,7 +7,7 @@
 <h4 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" /></a></h4>
 
 <p align="center">
-<img src="https://i.imgur.com/ujAPyfT.png" target="_blank">
+<img src="https://i.imgur.com/ujAPyfT.png" title="hover text">
 <p align="center">
 <img src="https://i.imgur.com/9Uvt8Sj.png" target="_blank">
 <p align="center">
