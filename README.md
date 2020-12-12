@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
 <h1 align="center"><b> Security Systems Engineer </b></h1>
-<h3 align="center"><b>✅ Certified Information Systems Auditor (CISA) </b></h3>
-<h3 align="center"><b>✅ Google Professional Network Engineer </b></h3>
+<h3 align="center"><b> Certified Information Systems Auditor (CISA) </b></h3>
+<h3 align="center"><b> Google Professional Network Engineer </b></h3>
 <h3 align="center">✅ Amazon Web Services Solutions Architect </b></h3>
 <h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 
@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>Certified Information Systems Auditor (CISA)</b><br>
-   <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/"> ✔️ Verification</a> | 📜 Certificate #: 20170106
+   <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url"> ✅ Verification</a> | 📜 Certificate #: 20170106
 <br><br>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <b>Amazon Web Services -  Solutions Architect</b><br>
-   <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/"> ✔️ Verification</a> | 📜 Certificate #: 5SYC6SNCPFVE1BC1
+   <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url"> ✅ Verification</a> | 📜 Certificate #: 5SYC6SNCPFVE1BC1
 <br><br>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <b>Google Professional Cloud Network Engineer</b><br>
-   <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✔️ Verification</a> | 📜 Certificate #: 23256887
+   <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✅ Verification</a> | 📜 Certificate #: 23256887
 <br><br>
 </p>
 
