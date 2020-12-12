@@ -6,7 +6,7 @@
 <h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 <h4 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" /></a></h4>
 
-<p align="center"> <a href="_blank" target="_blank"> <img src="https://i.imgur.com/ujAPyfT.png" alt="Credentials" /> </a>
+<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/ujAPyfT.png" alt="Credentials" /> </a>
 
 <p align="center"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/" target="_blank"> <img src="https://i.imgur.com/9Uvt8Sj.png" alt="CISA" /> </a>
 
