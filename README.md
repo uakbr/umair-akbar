@@ -6,26 +6,24 @@
 <h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 <h4 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" /></a></h4>
 
-<p align="center">
-<img src="https://i.imgur.com/ujAPyfT.png" title="hover text">
-<p align="center">
-<img src="https://i.imgur.com/9Uvt8Sj.png" target="_blank">
+<p align="center"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/" target="_blank"> <img src="https://i.imgur.com/9Uvt8Sj.png" alt="CISA" /> </a>
+
 <p align="center">
   <b>Certified Information Systems Auditor (CISA)</b><br>
    <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/"> ✔️ Verification</a> | 📜 Certificate #: 20170106
 <br><br>
 </p>
 
-<p align="center">
-<img src="https://i.imgur.com/tVasXar.png" target="_blank">
+<p align="center"> <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/" target="_blank"> <img src="https://i.imgur.com/tVasXar.png" alt="AWS" /> </a>
+
 <p align="center">
   <b>Amazon Web Services -  Solutions Architect</b><br>
    <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/"> ✔️ Verification</a> | 📜 Certificate #: 5SYC6SNCPFVE1BC1
 <br><br>
 </p>
 
-<p align="center">
-<img src="https://i.imgur.com/QmsVf78.png" target="_blank">
+<p align="center"> <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/" target="_blank"> <img src="https://i.imgur.com/QmsVf78.png" alt="Google" /> </a>
+
 <p align="center">
   <b>Google Professional Cloud Network Engineer</b><br>
    <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✔️ Verification</a> | 📜 Certificate #: 23256887
