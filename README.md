@@ -6,13 +6,31 @@
 <h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 <h4 align="center"><img src="https://i.imgur.com/k8EB9Dk.png" alt="commits" width="866" /></a></h4>
 
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=umair-akbar.umair-akbar" alt="umair-akbar" /> </p>
+<p align="center">
+<img src="https://i.imgur.com/ujAPyfT.png">
+<p align="center">
+<img src="https://i.imgur.com/9Uvt8Sj.png">
+<p align="center">
+  <b>Certified Information Systems Auditor (CISA)</b><br>
+   <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/"> ✔️ Verification</a> | 📜 Certificate #: 20170106
+<br><br>
+</p>
 
-[Certified Information Systems Auditor](https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/) - Accreditation verification
+<p align="center">
+<img src="https://i.imgur.com/tVasXar.png">
+<p align="center">
+  <b>Amazon Web Services -  Solutions Architect</b><br>
+   <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/"> ✔️ Verification</a> | 📜 Certificate #: 5SYC6SNCPFVE1BC1
+<br><br>
+</p>
 
-[Google Professional Network Engineer](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/) - Accreditation verification
-
-[AWS Certified Solutions Architect](https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f) - Accreditation verification
+<p align="center">
+<img src="https://i.imgur.com/QmsVf78.png">
+<p align="center">
+  <b>Google Professional Cloud Network Engineer</b><br>
+   <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✔️ Verification</a> | 📜 Certificate #: 23256887
+<br><br>
+</p>
 
 [I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
