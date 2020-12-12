@@ -5,7 +5,6 @@
 <h3 align="center">✅ Amazon Web Services Solutions Architect </b></h3>
 <h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 
-
 <p align="center"> <a href="" target=""> <img src="https://i.imgur.com/XqVh0G6.png" alt="Credentials" /> </a>
 
 <p align="center"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/" target="_blank"> <img src="https://i.imgur.com/9Uvt8Sj.png" alt="CISA" /> </a>
@@ -31,6 +30,8 @@
    <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✔️ Verification</a> | 📜 Certificate #: 23256887
 <br><br>
 </p>
+
+<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/dwviO8S.png" alt="Currently" /> </a>
 
 [I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
