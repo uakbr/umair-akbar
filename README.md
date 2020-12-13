@@ -9,7 +9,7 @@
 <p align="center">
 
 * <a href="https://hakk.gg">  🔰 **Hakk.gg**</a>
-  * Highly technical articles I write to help teach myself the topic.
+  * I post stuff I find cool, or topics I want to write about here.
   * Considered "Tech" news; around 1.2k unique IPs visiting daily.
   * Knowledge should be free and available to all - feel free to use or take anything on there. No credit needed.
 
