@@ -2,6 +2,8 @@
 
 <h1 align="center"><b> Security Systems Engineer </b></h1>
 
+
+
 <p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
 <p align="center"> <a href="" target=""> <img src="https://i.imgur.com/c3xwJCU.png" alt="Credentials" /> </a>
@@ -61,11 +63,11 @@
 
 * 🔬 [I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
-- 🔭 I’m currently working on **enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web)**
+- 📌 I’m currently working on **enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web)**
 
-- 🌱 I'm very passionate about **fundamental human rights. Especially the right to privacy. Which is why I founded [GDPR.gg](https://gdpr.gg/).**
+- 🚀 I'm very passionate about **fundamental human rights. Especially the right to privacy. Which is why I founded [GDPR.gg](https://gdpr.gg/).**
 
-- 💬 Ask me about **Anything related to Google Cloud Platform, GDPR, CCPA, privacy laws, Medical research, AWS, IT auditing, Governance, and database concurrency!** (weird flex, but ok).
+- 💬 Ask me about **anything related to the Google Cloud Platform, GDPR, CCPA, privacy laws, medical research, AWS, auditing firms, governance, and database concurrency!**
 
 - 📫 How to reach me **usa@hakk.me** or **umair@hytech.dev**. I code highly specialized fraud detection software alongside completing a Master's! I'll be joining an accounting firm really soon.
 
