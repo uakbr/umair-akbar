@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
 <h1 align="center"><b> Security Systems Engineer </b></h1>
-<h3 align="center"><b> Certified Information Systems Auditor (CISA) </b></h3>
-<h3 align="center"><b> Google Professional Network Engineer </b></h3>
-<h3 align="center">✅ Amazon Web Services Solutions Architect </b></h3>
 <h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 
-<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/XqVh0G6.png" alt="Credentials" /> </a>
+<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
+
+<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/c3xwJCU.png" alt="Credentials" /> </a>
+
+<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
 <p align="center"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url" target="_blank"> <img src="https://i.imgur.com/BagDNhk.png" alt="CISA" /> </a>
 
@@ -31,9 +32,13 @@
 <br><br>
 </p>
 
-<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/dwviO8S.png" alt="Currently" /> </a>
+<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
-[I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
+<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/C43XXfw.png" alt="Currently" /> </a>
+
+<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
+
+* 🔬 [I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
 - 🔭 I’m currently working on **bringing automation scripts, AI based ML to the field of Certified Information System Auditors (CISA).**
 
