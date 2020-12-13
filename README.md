@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
+
 <h1 align="center"><b> Security Systems Engineer </b></h1>
-<h3 align="center"> I also post stuff I find cool, or topics I want to write about, here: https://hakk.gg </h3>
 
 <H2 align="left"
   <b>Websites I manage:</b>
