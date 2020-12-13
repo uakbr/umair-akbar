@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Umair</h1>
+<h1 align="left">Hi 👋, I'm Umair</h1>
 
-<h1 align="center"><b> Security Systems Engineer </b></h1>
+<h1 align="left"><b> Security Systems Engineer </b></h1>
 
 <H2 align="left"
   <b>Websites I manage:</b>
@@ -21,41 +21,41 @@
 
 </p>
 
-<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
+<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
-<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/c3xwJCU.png" alt="Credentials" /> </a>
+<p align="left"> <a href="" target=""> <img src="https://i.imgur.com/c3xwJCU.png" alt="Credentials" /> </a>
 
-<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
+<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
-<p align="center"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url" target="_blank"> <img src="https://i.imgur.com/BagDNhk.png" alt="CISA" /> </a>
+<p align="left"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url" target="_blank"> <img src="https://i.imgur.com/BagDNhk.png" alt="CISA" /> </a>
 
-<p align="center">
+<p align="left">
   <b>Certified Information Systems Auditor (CISA)</b><br>
    <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url"> ✅ Verification</a> | 📜 Certificate #: 20170106
 <br><br>
 </p>
 
-<p align="center"> <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url" target="_blank"> <img src="https://i.imgur.com/kdfNfKj.png" alt="AWS" /> </a>
+<p align="left"> <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url" target="_blank"> <img src="https://i.imgur.com/kdfNfKj.png" alt="AWS" /> </a>
 
-<p align="center">
+<p align="left">
   <b>Amazon Web Services -  Solutions Architect</b><br>
    <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url"> ✅ Verification</a> | 📜 Certificate #: 5SYC6SNCPFVE1BC1
 <br><br>
 </p>
 
-<p align="center"> <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/" target="_blank"> <img src="https://i.imgur.com/8afqjb6.png" alt="Google" /> </a>
+<p align="left"> <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/" target="_blank"> <img src="https://i.imgur.com/8afqjb6.png" alt="Google" /> </a>
 
-<p align="center">
+<p align="left">
   <b>Google Professional Cloud Network Engineer</b><br>
    <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✅ Verification</a> | 📜 Certificate #: 23256887
 <br><br>
 </p>
 
-<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
+<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
-<p align="center"> <a href="" target=""> <img src="https://i.imgur.com/C43XXfw.png" alt="Currently" /> </a>
+<p align="left"> <a href="" target=""> <img src="https://i.imgur.com/C43XXfw.png" alt="Currently" /> </a>
 
-<p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
+<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
 * 🔬 [I have 66 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
