@@ -2,25 +2,6 @@
 
 <h1 align="center"><b> Security Systems Engineer </b></h1>
 
-<H2 align="center"
-  <b>Websites I manage:</b>
-</h2
-
-<p align="center">
-
-* <a href="https://hakk.gg">  🔰 **Hakk.gg**</a>
-  * I post stuff I find cool, or topics I want to write about here.
-  * Considered "Tech" news; around 1.2k unique IPs visiting daily.
-  * Knowledge should be free and available to all - feel free to use or take anything on there. No credit needed.
-
-
-* <a href="https://GDPR.gg"> 🔰 **GDPR.gg**</a>
-  * Stay up-to-date with the nuances of GDPR.
-  * Helping individuals navigate issues that cannot afford representation.
-  * Privacy is a fundamental human right; we will keep fighting for this cause.
-
-</p>
-
 <p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
 <p align="center"> <a href="" target=""> <img src="https://i.imgur.com/c3xwJCU.png" alt="Credentials" /> </a>
@@ -52,6 +33,25 @@
 </p>
 
 <p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
+
+<H2 align="center"
+  <b>Websites I manage:</b>
+</h2
+
+<p align="center">
+
+* <a href="https://hakk.gg">  🔰 **Hakk.gg**</a>
+  * I post stuff I find cool, or topics I want to write about here.
+  * Considered "Tech" news; around 1.2k unique IPs visiting daily.
+  * Knowledge should be free and available to all - feel free to use or take anything on there. No credit needed.
+
+
+* <a href="https://GDPR.gg"> 🔰 **GDPR.gg**</a>
+  * Stay up-to-date with the nuances of GDPR.
+  * Helping individuals navigate issues that cannot afford representation.
+  * Privacy is a fundamental human right; we will keep fighting for this cause.
+
+</p>
 
 <p align="center"> <a href="" target=""> <img src="https://i.imgur.com/C43XXfw.png" alt="Currently" /> </a>
 
