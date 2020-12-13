@@ -44,8 +44,6 @@
 
 - 🌱 I'm very passionate about **fundamental human rights. Especially the right to privacy. Which is why I founded [GDPR.gg](https://gdpr.gg/).**
 
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/umair-akbar/).
-
 - 💬 Ask me about **Anything related to Google Cloud Platform, GDPR, CCPA, privacy laws, Medical research, AWS, IT auditing, Governance, and database concurrency!** (weird flex, but ok).
 
 - 📫 How to reach me **usa@hakk.me** or **umair@hytech.dev**. I code highly specialized fraud detection software alongside completing a Master's! I'll be joining an accounting firm really soon.
