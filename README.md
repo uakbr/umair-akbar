@@ -3,7 +3,7 @@
 ### 🚀 Security Systems Engineer
 #### Here's a brief overview of what I do
 * I architect cloud-based systems for companies that are based on these tenets: 
-   * **Resilient** - If something "goes wrong" in the code; the program is able to self-heal or continue without affecting the entire system itself.
+   * **Resiliency** - If something "goes wrong" in the code; the program is able to self-heal or continue without affecting the entire system itself.
    * **Highly-available** - The system is *ideally* available at all times; the system converges towards an error-free state and is therefore self stabilizing.
    * **Redundancy** - There ~~should~~ will always be multiple identical instances of the system and it will switch to one of the redundant instances in case of failover.
    * **Efficient** - The above three cost a lot to achieve; my designs are extremely efficient. If there is too much code, complexity, both, or either, I will revert the changes and re-create the system until it is. Being efficient and having all three of the above is a requirement. Until that is achieved my work is not complete.
