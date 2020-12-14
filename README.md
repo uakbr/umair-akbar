@@ -36,9 +36,7 @@
 
 <p align="center"> <img src="https://i.imgur.com/W6NINWu.png" alt="CISA" /> </a>
 
-<H2 align="center"
-  <b>Websites I manage:</b>
-</h2
+## Websites I Manage
 
 <p align="center">
 
