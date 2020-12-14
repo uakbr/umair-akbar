@@ -9,7 +9,11 @@
    * **Efficient** - The above three cost a lot to achieve; my designs are extremely efficient. If there is too much code, complexity, both, or either, I will revert the changes and re-create the system until it is. Being efficient and having all three of the above is a requirement. Until that is achieved my work is not complete.
    * I write about highly efficient, redundant systems [here](https://hakk.gg/how-to-build-a-highly-available-system-using-consensus/) and [here](https://hakk.gg/keep-data-consistency-during-database-migration/).
 
+<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
+
 <p align="left"> <a href="" target=""> <img src="https://i.imgur.com/c3xwJCU.png" alt="Credentials" /> </a>
+  
+<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
 
 <p align="left"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url" target="_blank"> <img src="https://i.imgur.com/BagDNhk.png" alt="CISA" /> </a>
 
@@ -34,6 +38,8 @@
    <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✅ Verification</a> | 📜 Certificate #: 23256887
 <br><br>
 </p>
+
+<p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
 
 ## Websites I Manage
 
