@@ -45,6 +45,11 @@
 ## Websites I Manage
 
 <p align="left">
+  
+* <a href="https://DigitaLaw.eu"> 🔰 **DigitaLaw.eu**</a>
+  * Stay up-to-date with the newly released DSA and DMA laws released in the EU.
+  * These laws can be complex, require significant resources to comply with.
+  * Our goal with DigitaLaw is to help people with all backgrounds navigate these changes.
 
 * <a href="https://hakk.gg">  🔰 **Hakk.gg**</a>
   * I post stuff I find cool, or topics I want to write about here.
