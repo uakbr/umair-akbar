@@ -24,6 +24,14 @@
 <br><br>
 </p>
 
+<p align="left"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url" target="_blank"> <img src="https://i.imgur.com/aim7FpB.png" alt="CDPSE" /> </a>
+
+<p align="left">
+  <b>Certified Data Privacy Solutions Engineer (CDPSE)</b><br>
+   <a href="https://www.youracclaim.com/org/isaca/badge/certified-data-privacy-solutions-engineer-cdpse"> ✅ Verification [Coming Soon]</a> | 📜 Certificate #: [Coming Soon]
+<br><br>
+</p>
+
 <p align="left"> <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url" target="_blank"> <img src="https://i.imgur.com/kdfNfKj.png" alt="AWS" /> </a>
 
 <p align="left">
