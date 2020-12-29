@@ -24,7 +24,7 @@
 <br><br>
 </p>
 
-<p align="left"> <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url" target="_blank"> <img src="https://i.imgur.com/aim7FpB.png" alt="CDPSE" /> </a>
+<p align="left"> <a href="https://www.youracclaim.com/org/isaca/badge/certified-data-privacy-solutions-engineer-cdpse" target="_blank"> <img src="https://i.imgur.com/aim7FpB.png" alt="CDPSE" /> </a>
 
 <p align="left">
   <b>Certified Data Privacy Solutions Engineer (CDPSE)</b><br>
