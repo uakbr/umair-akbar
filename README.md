@@ -20,15 +20,15 @@
 
 <p align="left">
   <b>Certified Information Systems Auditor (CISA)</b><br>
-   <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url"> ✅ Verification</a> | 📜 Certificate #: 20170106
+   <a href="https://www.youracclaim.com/badges/b229b999-dc0f-4ff3-b8d3-f9456664edd2/public_url"> ✅ Verification</a>
 <br><br>
 </p>
 
-<p align="left"> <a href="https://www.youracclaim.com/org/isaca/badge/certified-data-privacy-solutions-engineer-cdpse" target="_blank"> <img src="https://i.imgur.com/aim7FpB.png" alt="CDPSE" /> </a>
+<p align="left"> <a href="https://www.youracclaim.com/badges/54a21319-478b-48f6-a82e-41b610b8cf98/public_url" target="_blank"> <img src="https://i.imgur.com/aim7FpB.png" alt="CDPSE" /> </a>
 
 <p align="left">
   <b>Certified Data Privacy Solutions Engineer (CDPSE)</b><br>
-   <a href="https://www.youracclaim.com/org/isaca/badge/certified-data-privacy-solutions-engineer-cdpse"> ✅ Verification [Coming Soon]</a> | 📜 Certificate #: [Coming Soon]
+   <a href="https://www.youracclaim.com/badges/54a21319-478b-48f6-a82e-41b610b8cf98/public_url"> ✅ Verification</a>
 <br><br>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="left">
   <b>Amazon Web Services -  Solutions Architect</b><br>
-   <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url"> ✅ Verification</a> | 📜 Certificate #: 5SYC6SNCPFVE1BC1
+   <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url"> ✅ Verification</a>
 <br><br>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="left">
   <b>Google Professional Cloud Network Engineer</b><br>
-   <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✅ Verification</a> | 📜 Certificate #: 23256887
+   <a href="https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/"> ✅ Verification</a>
 <br><br>
 </p>
 
