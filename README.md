@@ -89,6 +89,3 @@
 - 📫 How to reach me **usa@hakk.me** or **umair@hytech.dev**. I code highly specialized, extremely resilient accounting software built with fraud detection algorithms alongside completing a Master's! I'll be joining a "big 4" accounting firm really soon. 
 
 - ⚡ Fun fact **My initials are USA. Born and raised here. Never left.**
-
-
-<h3 align="left">Languages and Tools:</h3>
