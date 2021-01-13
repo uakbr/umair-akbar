@@ -69,6 +69,11 @@
   * Stay up-to-date with the nuances of GDPR.
   * Helping individuals navigate issues that cannot afford representation.
   * Privacy is a fundamental human right; we will keep fighting for this cause.
+  
+  
+* <a href="https://Umair.gg">  🔰 **Umair.gg**</a>
+  * My personal domain. I repeat post from Hakk.gg most of the time. Much cleaner.
+  * Stylized the UI inspired by Medium.
 
 </p>
 
