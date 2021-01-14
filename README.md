@@ -99,6 +99,6 @@
 
 - 💬 Ask me anything **related to Google Cloud Platform, GDPR, CCPA, privacy laws, medical research, AWS, auditing firms, governance, and database concurrency!**
 
-- 📫 How to reach me **usa@hakk.me** or **umair@hytech.dev**. I code highly specialized, extremely resilient accounting software built with fraud detection algorithms alongside completing a Master's! I'll be joining a "big 4" accounting firm really soon. 
+- 📫 How to reach me: **usa@umair.gg**. I code highly specialized, extremely resilient accounting software built with fraud detection algorithms alongside completing a Master's! I'll be joining a "big 4" accounting firm really soon. 
 
 - ⚡ Fun fact **My initials are USA. Born and raised here. Never left.**
