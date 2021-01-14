@@ -79,6 +79,11 @@
   * Helping individuals navigate issues that cannot afford representation.
   * Privacy is a fundamental human right; we will keep fighting for this cause.
   
+* <a href="https://opensourcemed.com"> 🔰 **OpenSourceMed.com**</a>
+  * The entire <a href="https://www.uptodate.com/">UpToDate</a> database as it was on April of 2018.
+  * A subscription easily costs north of $500.
+  * Whilst the website data is compiled from 2018, 98% of the information is still applicable and relevant to the general public.
+  
 </p>
 
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
