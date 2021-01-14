@@ -50,7 +50,7 @@
 
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
 
-## Citizens for Science, Truth and Logic (United) CSTLU 
+## Citizens for Science, Truth and Logic United (CSTLU) 
 ### This is a 501c3 non-profit organization founded by myself.
 
 <p align="left">
