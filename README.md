@@ -63,26 +63,25 @@
 
 <p align="left">
   
+* <a href="https://opensourcemed.com"> 🔰 **OpenSourceMed.com**</a>
+  * The entire <a href="https://www.uptodate.com/">UpToDate</a> database as it was on April of 2018.
+  * A subscription easily costs north of $500.
+  * Whilst the website data is compiled from 2018, 98% of the information is still applicable and relevant to the general public.
+  
+* <a href="https://hakk.gg">  🔰 **Hakk.gg**</a>
+  * I post stuff I find cool, or topics I want to write about here.
+  * Considered "Tech" news; around 1.2k unique IPs visiting daily.
+  * Knowledge should be free and available to all - feel free to use or take anything on there. No credit needed.
+  
 * <a href="https://DigitaLaw.eu"> 🔰 **DigitaLaw.eu**</a>
   * Stay up-to-date with the newly released DSA and DMA laws released in the EU.
   * These laws can be complex, require significant resources to comply with.
   * Our goal with DigitaLaw is to help people with all backgrounds navigate these changes.
 
-* <a href="https://hakk.gg">  🔰 **Hakk.gg**</a>
-  * I post stuff I find cool, or topics I want to write about here.
-  * Considered "Tech" news; around 1.2k unique IPs visiting daily.
-  * Knowledge should be free and available to all - feel free to use or take anything on there. No credit needed.
-
-
 * <a href="https://GDPR.gg"> 🔰 **GDPR.gg**</a>
   * Stay up-to-date with the nuances of GDPR.
   * Helping individuals navigate issues that cannot afford representation.
   * Privacy is a fundamental human right; we will keep fighting for this cause.
-  
-* <a href="https://opensourcemed.com"> 🔰 **OpenSourceMed.com**</a>
-  * The entire <a href="https://www.uptodate.com/">UpToDate</a> database as it was on April of 2018.
-  * A subscription easily costs north of $500.
-  * Whilst the website data is compiled from 2018, 98% of the information is still applicable and relevant to the general public.
   
 </p>
 
