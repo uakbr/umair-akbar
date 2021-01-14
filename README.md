@@ -50,6 +50,15 @@
 
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
 
+## Citizens for Science, Truth and Logic (United) CSTLU 
+### This is a 501c3 non-profit organization founded by myself.
+
+<p align="left">
+  
+* In today's society we are constantly barraged with a "firehouse" of information daily. Our purpose is to help educate citizens on identifying fake news, learning skills to critically assess what they are reading, and lastly, be able to access resources that would otherwise be behind a "paywall" for free. We went public in January of 2021.
+
+</p>
+
 ## Websites I Manage
 
 <p align="left">
@@ -70,11 +79,6 @@
   * Helping individuals navigate issues that cannot afford representation.
   * Privacy is a fundamental human right; we will keep fighting for this cause.
   
-  
-* <a href="https://Umair.gg">  🔰 **Umair.gg**</a>
-  * My personal domain. I repeat post from Hakk.gg most of the time. Much cleaner.
-  * Stylized the UI inspired by Medium.
-
 </p>
 
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
