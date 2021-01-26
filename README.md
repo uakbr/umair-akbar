@@ -32,6 +32,14 @@
 <br><br>
 </p>
 
+<p align="left"> <a href="https://www.youracclaim.com/badges/54a21319-478b-48f6-a82e-41b610b8cf98/public_url" target="_blank"> <img src="https://i.imgur.com/gtYIGoM.png" alt="CEH" /> </a>
+
+<p align="left">
+  <b>Certified Ethical Hacker (CEH)</b><br>
+   <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZJFpQkZIF+28c8vibHmygrnbK149R/I69YBzzbXuDDA="> ✅ Verification</a>
+<br><br>
+</p>
+
 <p align="left"> <a href="https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url" target="_blank"> <img src="https://i.imgur.com/kdfNfKj.png" alt="AWS" /> </a>
 
 <p align="left">
@@ -91,7 +99,7 @@
 
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
 
-* 🔬 [I have 70 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
+* 🔬 [I have 74 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
 - 📌 I’m working on **enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web)**
 
