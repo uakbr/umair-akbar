@@ -99,7 +99,7 @@
 
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
 
-* 🔬 [I have 74 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
+* 🔬 [I have 75 Research Citations](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra) and counting; research is a large part of my life. You might ask, why is it medical research? "*Aren't you a IT*"? (lol) There are no bounds to human knowledge. Learn as much as you can, always! :)
 
 - 📌 I’m working on **enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web)**
 
