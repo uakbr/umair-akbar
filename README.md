@@ -81,11 +81,6 @@
   * Considered "Tech" news; around 1.2k unique IPs visiting daily.
   * Knowledge should be free and available to all - feel free to use or take anything on there. No credit needed.
   
-* <a href="https://DigitaLaw.eu"> 🔰 **DigitaLaw.eu**</a>
-  * Stay up-to-date with the newly released DSA and DMA laws released in the EU.
-  * These laws can be complex, require significant resources to comply with.
-  * Our goal with DigitaLaw is to help people with all backgrounds navigate these changes.
-
 * <a href="https://GDPR.gg"> 🔰 **GDPR.gg**</a>
   * Stay up-to-date with the nuances of GDPR.
   * Helping individuals navigate issues that cannot afford representation.
