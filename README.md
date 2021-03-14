@@ -76,11 +76,6 @@
   * A subscription easily costs north of $500.
   * Whilst the website data is compiled from 2018, 98% of the information is still applicable and relevant to the general public.
   
-* <a href="https://hakk.gg">  🔰 **Hakk.gg**</a>
-  * I post stuff I find cool, or topics I want to write about here.
-  * Considered "Tech" news; around 1.2k unique IPs visiting daily.
-  * Knowledge should be free and available to all - feel free to use or take anything on there. No credit needed.
-  
 * <a href="https://GDPR.gg"> 🔰 **GDPR.gg**</a>
   * Stay up-to-date with the nuances of GDPR.
   * Helping individuals navigate issues that cannot afford representation.
