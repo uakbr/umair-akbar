@@ -7,7 +7,6 @@
    * **Highly-available** - The system is *ideally* available at all times; the system converges towards an error-free state and is therefore self stabilizing.
    * **Redundancy** - There ~~should~~ will always be multiple identical instances of the system and it will switch to one of the redundant instances in case of failover.
    * **Efficiency** - The above three cost a lot to achieve; my designs are extremely efficient. If there is too much code, complexity, both, or either, I will revert the changes and re-create the system until it is. Being efficient and having all three of the above is a requirement. Until that is achieved my work is not complete.
-   * I write about highly efficient, redundant systems [here](https://hakk.gg/how-to-build-a-highly-available-system-using-consensus/) and [here](https://hakk.gg/keep-data-consistency-during-database-migration/).
  * I do a bunch of other stuff regarding **GDPR, CCPA in addition to FINRA, SOX and PCI-DSS** compliance, however, since this is Github, I will leave it at that! 
  
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
