@@ -96,6 +96,6 @@
 
 - 💬 Ask me anything **related to Google Cloud Platform, GDPR, CCPA, privacy laws, medical research, AWS, auditing firms, governance, and database concurrency!**
 
-- 📫 How to reach me: **usa@umair.gg**. I code highly specialized, extremely resilient accounting software built with fraud detection algorithms. I have a Master's in Cybersecurity and Information Assurance! I work at a "Big4" accounting firm.
+- 📫 How to reach me: **usa@umair.gg**. I code highly specialized, extremely resilient accounting software built with fraud detection algorithms. I have a Master's in Cybersecurity and Information Assurance. I work at a Big4 firm.
 
 - ⚡ Fun fact **My initials are USA. Born and raised here. Never left.**
