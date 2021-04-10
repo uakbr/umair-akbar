@@ -1,4 +1,4 @@
-# Hi 👋, I'm Umair
+# Hi 👋, I'm USA
 
 ### 🚀 Senior Security Systems Engineer
 #### Here's a brief overview of what I do
@@ -66,22 +66,6 @@
 
 </p>
 
-## Websites I Manage
-
-<p align="left">
-  
-* <a href="https://opensourcemed.com"> 🔰 **OpenSourceMed.com**</a>
-  * The entire <a href="https://www.uptodate.com/">UpToDate</a> database as it was on April of 2018.
-  * A subscription easily costs north of $500.
-  * Whilst the website data is compiled from 2018, 98% of the information is still applicable and relevant to the general public.
-  
-* <a href="https://GDPR.gg"> 🔰 **GDPR.gg**</a>
-  * Stay up-to-date with the nuances of GDPR.
-  * Helping individuals navigate issues that cannot afford representation.
-  * Privacy is a fundamental human right; we will keep fighting for this cause.
-  
-</p>
-
 <p align="left"> <img src="https://i.imgur.com/W6NINWu.png" alt="Divider" /> </a>
 
 <p align="left"> <a href="" target=""> <img src="https://i.imgur.com/C43XXfw.png" alt="Currently" /> </a>
@@ -92,10 +76,6 @@
 
 - 📌 I’m working on **enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web)**
 
-- 🚀 I'm very passionate about **fundamental human rights. Especially the right to privacy. Which is why I founded [GDPR.gg](https://gdpr.gg/).**
-
 - 💬 Ask me anything **related to Google Cloud Platform, GDPR, CCPA, privacy laws, medical research, AWS, auditing firms, governance, and database concurrency!**
 
 - 📫 How to reach me: **usa@umair.gg**. I code highly specialized, extremely resilient accounting software built with fraud detection algorithms. I have a Master's in Cybersecurity and Information Assurance. I work at a Big4 firm.
-
-- ⚡ Fun fact **My initials are USA. Born and raised here. Never left.**
